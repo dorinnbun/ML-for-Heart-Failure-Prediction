@@ -1,7 +1,5 @@
 # ML-for-Heart-Failure-Prediction
 
-
-
 # Project Overview
 
 This project addresses the challenge of early heart disease detection.
@@ -30,7 +28,6 @@ This guide explains how to set up and run the project on a remote Linux server.
 
 ### 1. Initial Server Setup
 First, connect to your server via SSH. Then, install the necessary tools.
-
 ### Update package lists
 ```
 sudo apt update && sudo apt upgrade -y
@@ -40,7 +37,6 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3-pip python3-venv git jupyterlab -y
 ```
 ### 2. Clone the Project Repository
-
 Clone this repository to your server. Navigate into the ML directory!
 ```
 git clone https://github.com/
@@ -64,7 +60,6 @@ pip install -r requirements.txt
 ```
 ### 4. Run Jupyter Lab in a Session
 To ensure your notebook keeps running even if you disconnect, use tmux.
-
 ### Install tmux
 ```
 sudo apt install tmux -y
