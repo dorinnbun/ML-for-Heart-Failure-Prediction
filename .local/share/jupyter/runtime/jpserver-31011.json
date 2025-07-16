@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "172.10.21.50",
+  "password": false,
+  "pid": 31011,
+  "port": 8888,
+  "root_dir": "/home/dorinn",
+  "secure": false,
+  "sock": "",
+  "token": "a33898ada5819064e33db31389bb2686dee827748c3bb46e",
+  "url": "http://172.10.21.50:8888/",
+  "version": "2.16.0"
+}

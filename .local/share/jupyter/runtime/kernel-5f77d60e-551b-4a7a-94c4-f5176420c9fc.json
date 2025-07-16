@@ -1,0 +1,13 @@
+{
+  "shell_port": 52787,
+  "iopub_port": 54765,
+  "stdin_port": 44591,
+  "control_port": 46487,
+  "hb_port": 43191,
+  "ip": "127.0.0.1",
+  "key": "8518e70b-caf75ecef08a65c53b299840",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/dorinn/Untitled.ipynb"
+}
